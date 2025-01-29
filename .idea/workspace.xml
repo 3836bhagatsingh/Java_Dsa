@@ -1,18 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="153d27dc-3a8d-495b-8fcb-14d1d3b6334f" name="Changes" comment="" />
+    <list default="true" id="153d27dc-3a8d-495b-8fcb-14d1d3b6334f" name="Changes" comment="DSA Learning">
+      <change afterPath="$PROJECT_DIR$/src/ARRAY/Even_Odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ARRAY/Insertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ARRAY/Large_sLarge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ARRAY/Print_Subarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ARRAY/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ARRAY/Two_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAY/Implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAY/Implementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAY/Min_Max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAY/Min_Max.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAY/Search_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAY/Search_Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAY/isSorted1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAY/isSorted1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAY/isSorted2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAY/isSorted2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BASIC_JAVA/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BASIC_JAVA/Armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BASIC_JAVA/Armstrong_range.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BASIC_JAVA/Armstrong_range.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BASIC_JAVA/Count_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BASIC_JAVA/Count_Digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BASIC_JAVA/Digit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BASIC_JAVA/Digit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BASIC_JAVA/Even_Odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BASIC_JAVA/Even_Odd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BASIC_JAVA/Fibbonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BASIC_JAVA/Fibbonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BASIC_JAVA/Hello_World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BASIC_JAVA/Hello_World.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BASIC_JAVA/Leap_Year.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BASIC_JAVA/Leap_Year.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BASIC_JAVA/Palindrome_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BASIC_JAVA/Palindrome_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BASIC_JAVA/Prime_Factorization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BASIC_JAVA/Prime_Factorization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BASIC_JAVA/Print_Odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BASIC_JAVA/Print_Odd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BASIC_JAVA/Sum_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BASIC_JAVA/Sum_Digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BASIC_JAVA/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BASIC_JAVA/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BASIC_JAVA/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BASIC_JAVA/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PATTERNS/Pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PATTERNS/Pattern1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;3836bhagatsingh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/3836bhagatsingh/Java_Dsa.git&quot;,
+    &quot;accountId&quot;: &quot;cc82c4d1-efee-4401-8d5e-098cdd8056ac&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2rw1u08hV1yYCdHAPYtcmvSJ4nK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,8 +72,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Armstrong.executor": "Run",
+    "Application.Armstrong_range.executor": "Run",
+    "Application.Count_Digits.executor": "Run",
+    "Application.Digit.executor": "Run",
+    "Application.Even_Odd.executor": "Run",
+    "Application.Fibbonacci.executor": "Run",
+    "Application.Hello_World.executor": "Run",
+    "Application.Implementation.executor": "Run",
+    "Application.Insertion.executor": "Run",
+    "Application.Large_sLarge.executor": "Run",
+    "Application.Leap_Year.executor": "Run",
+    "Application.Min_Max.executor": "Run",
+    "Application.Palindrome_Number.executor": "Run",
+    "Application.Pattern1.executor": "Run",
+    "Application.Prime_Factorization.executor": "Run",
+    "Application.Print_Odd.executor": "Run",
+    "Application.Print_Subarray.executor": "Run",
+    "Application.Reverse.executor": "Run",
+    "Application.Search_Element.executor": "Run",
+    "Application.Sum_Digits.executor": "Run",
+    "Application.Table.executor": "Run",
+    "Application.Two_Sum.executor": "Run",
+    "Application.Variable.executor": "Run",
+    "Application.isSorted1.executor": "Run",
+    "Application.isSorted2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/3836b/IdeaProjects/DSA_LEARNYARD/src/Main.java"
   }
 }]]></component>
@@ -35,14 +112,46 @@
       <option name="presentableId" value="Default" />
       <updated>1737455542434</updated>
     </task>
+    <task id="LOCAL-00001" summary="DSA Learning">
+      <option name="closed" value="true" />
+      <created>1737738631502</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737738631502</updated>
+    </task>
+    <task id="LOCAL-00002" summary="DSA Learning">
+      <option name="closed" value="true" />
+      <created>1737738725266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737738725266</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DSA Learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSA Learning" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
+          <line>10</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
